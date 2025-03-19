@@ -45,10 +45,10 @@ while True:
         elif opcoes == 4:
             break
         else:
-            print('Digite uma opção valida!')
+            print('Digite uma opção válida!')
         
     except ValueError:
-        print('Digite uma opção valida!')
+        print('Digite uma opção válida!')
 
 
 
